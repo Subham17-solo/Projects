@@ -2,7 +2,7 @@
 **# 1. Bannana Quality**
 # https://github.com/Subham17-solo/Projects/blob/main/FirstAnalysis.ipynb
 # https://github.com/Subham17-solo/Projects/blob/main/banana_quality
-#
+# https://github.com/Subham17-solo/Projects/blob/main/banannaData.pbix
 
 
 **#2. Supply Chain Emission**
