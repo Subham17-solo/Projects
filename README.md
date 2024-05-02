@@ -9,5 +9,5 @@
 - [Supply Chain Emission Power BI File](https://github.com/Subham17-solo/Projects/blob/main/SupplyChainEmmissionData.pbix)
 
 ## 3. Supply Chain data
-- [SupplyChainData] (http://localhost:8888/notebooks/supply_chain_data.ipynb)
+- [SupplyChainData](http://localhost:8888/notebooks/supply_chain_data.ipynb)
 - 
