@@ -9,4 +9,4 @@
 - [Supply Chain Emission Power BI File](https://github.com/Subham17-solo/Projects/blob/main/SupplyChainEmmissionData.pbix)
 
 ## 3. Supply Chain Management 
-- [SC1.ipynb]
+- [SC1.ipynb](https://github.com/Subham17-solo/Projects/blob/main/SC1.ipynb)
